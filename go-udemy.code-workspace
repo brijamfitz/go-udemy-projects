@@ -1,0 +1,45 @@
+{
+	"folders": [
+    {
+      "name": "hello-world",
+      "path": "hello-world"
+    },
+    {
+      "name": "cards",
+      "path": "cards"
+    },
+    {
+      "name": "even-odd",
+      "path": "even-odd"
+    },
+    {
+      "name": "structs",
+      "path": "structs"
+    },
+    {
+      "name": "maps",
+      "path": "maps"
+    },
+    {
+      "name": "interfaces",
+      "path": "interfaces"
+    },
+    {
+      "name": "http",
+      "path": "http"
+    },
+    {
+      "name": "shapes-interface",
+      "path": "shapes-interface"
+    },
+    {
+      "name": "read-file-interface",
+      "path": "read-file-interface"
+    },
+    {
+      "name": "website-status-checker",
+      "path": "website-status-checker"
+    }
+  ],
+  "settings": {}
+}
